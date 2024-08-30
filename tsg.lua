@@ -1,5 +1,5 @@
 -- // The Survival Game Script, orignally written for v3, ported to v2. Enjoy!
-
+print("LOADING SCRIPT...")
 --[[ TODO
     idk
 ]]
